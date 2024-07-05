@@ -1,2 +1,4 @@
-Master of puppets
-Skillet - Monster
+a = "Master of puppets";
+b = "Skillet - Monster";
+System.out.println(a);
+System.out.println(b);
