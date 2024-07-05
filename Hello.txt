@@ -2,3 +2,6 @@ a = "Master of puppets";
 b = "Skillet - Monster";
 System.out.println(a);
 System.out.println(b);
+
+
+ТЕSTING№3
